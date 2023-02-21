@@ -60,7 +60,6 @@
     "pages/my/user-code"
   ],
   "requiredPrivateInfos": [
-    "getLocation",
     "chooseAddress",
     "chooseLocation"
   ],
